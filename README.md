@@ -97,5 +97,5 @@ RUST_LOG=debug cargo run
 
 ## 🔗 Связанные проекты
 
-- [Payment Analytics Backend](../README.md) - основной бэкенд API
+- [Payment Analytics Backend](https://github.com/drksiden/mastercard-creathon-back-rust) - основной бэкенд API
 
